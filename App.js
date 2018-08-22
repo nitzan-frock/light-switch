@@ -1,5 +1,4 @@
 import React from 'react';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import fire from './firebase';
 import Loading from './Loading';
 import LightSwitch from './LightSwitch';
